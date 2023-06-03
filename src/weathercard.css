@@ -1,0 +1,17 @@
+#card{
+    font-family: Changa, sans-serif;
+    width: '17rem';
+    border-radius: 7%;
+    border-style: outset;
+    border-color: blanchedalmond;
+}
+
+#img{
+    width: 100%;
+    padding: 20px;
+}
+
+#title{
+    font-size: 27px;
+    font-weight: bold;
+}
